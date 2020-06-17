@@ -1,0 +1,18 @@
+[ {
+  "userId" : "c38c7fff-b97f-4eb1-b84d-156c8c1a98bf",
+  "name" : "Test",
+  "email" : "test@test.com",
+  "address" : null,
+  "password" : "1234"
+}, {
+  "userId" : "0cc758b7-b309-4892-949e-e9b89be07ef7",
+  "name" : "Erik",
+  "email" : "erik@gmail.com",
+  "address" : {
+    "street" : "Friskhetsvägen",
+    "number" : 2,
+    "zipCode" : "35263",
+    "city" : "Växjö"
+  },
+  "password" : "javadev"
+} ]
